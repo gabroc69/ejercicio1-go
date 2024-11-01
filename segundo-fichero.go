@@ -1,2 +1,0 @@
-otro fichero de prueba
-

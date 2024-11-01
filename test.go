@@ -1,1 +1,0 @@
-un fichero de prueba
